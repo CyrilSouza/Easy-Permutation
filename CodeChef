@@ -15,7 +15,7 @@ class Codechef
 	    while(t-->0){
 	        int n=sc.nextInt;
 	        for(int i=n;i>0;i--){
-	            System.out.print(i);
+	            System.out.print(i+" ");
 	        }
 	    }
 	}
